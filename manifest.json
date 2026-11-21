@@ -1,0 +1,24 @@
+{
+ "name": "আয় ঘর",
+ "short_name": "আয় ঘর",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#07120f",
+ "theme_color": "#0b8a67",
+ "lang": "bn",
+ "icons": [
+  {
+   "src": "icon.png",
+   "sizes": "192x192 512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
